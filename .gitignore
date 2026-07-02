@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+automation/.env
+automation/post-next.mjs
+automation/post-index.json
+.thumbnail/
+screenshots/
+*.pdf
+Generated image*.png
+Hanuman Chalisa Comic.html
